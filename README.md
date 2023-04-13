@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.gifer.com/6X57.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/564x/fb/6a/38/fb6a3829931ef8642088e36c7bdd5a35.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -17,7 +17,7 @@
 
 
 
-### About me  
+### About me in two words 
 My path  to IT began in 2018, my first programming language that I learned then was Java.☕
 
 then later for 2 years⌛ I switched to Python🐍, because a friend offered me to participate in a project to bypass the protection of one site.
@@ -77,5 +77,3 @@ Telegram🧠
 
 
 <br />
-
-----
