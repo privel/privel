@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a super sexy programmer</div>  
+### <div align="center">I'm a super sexy programmer, just look at my avatar</div>  
   
 
 - 🔭 I’m currently working on "I am unemployed"   
