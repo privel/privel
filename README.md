@@ -3,30 +3,21 @@
 </div>  
   
 
-### <div align="center">I am Oleg, I have been developing since 2018 to the present 👨‍💻  🚀</div>  
+### <div align="center">I'm a super sexy programmer</div>  
   
 
-- 🔭 I’m currently working on (MM startup)   
+- 🔭 I’m currently working on "I am unemployed"   
   
 
-- 🌱 I’m currently learning Flutter and Java spring  
+- 🌱 Nowadays I have become bigger better stronger
   
 
-- ❓ Ask me about everything related to my stack.  
+- ❓ Dont Ask me about everything related to my stack.
+
+
+- 🙉 And I wasn't doing a SKAM project.  
   
 
-
-
-### About me in two words 
-My path  to IT began in 2018, my first programming language that I learned then was Java.☕
-
-then later for 2 years⌛ I switched to Python🐍, because a friend offered me to participate in a project to bypass the protection of one site.
-
-Which I managed to do, then I took part in the development👨‍💻 of various startups rides, hackathons and sports programming. I have also been engaged in robotics🤖 since 2017
-  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -55,9 +46,7 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 <br/>  
 
 
-## Connect with me  
-<a href="https://t.me/vspxd" target="_blank">
-Telegram🧠
+
 </a>  
   
 
